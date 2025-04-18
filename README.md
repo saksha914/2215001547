@@ -7,7 +7,7 @@ A modern dashboard built with Next.js that displays social media analytics. The 
 The project is organized into two main folders:
 - `Backend`: Contains the Node.js/Express backend service
 - `frontend-next`: Contains the Next.js frontend application
-- `docs`: Contains documentation assets and screenshots
+- `Output Screenschot`: Contains screenshots of the output
 
 ## Prerequisites
 
